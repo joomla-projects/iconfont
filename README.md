@@ -7,9 +7,9 @@ Clone git repository from-
 https://github.com/joomla-projects/iconfont
 ```
 
-Go API Folder 
+Go icofont Folder 
 ```
-cd api 
+cd icofont 
 ```
 
 Run NPM command 
