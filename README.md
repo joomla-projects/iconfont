@@ -4,7 +4,7 @@
 
 Clone git repository from-
 ```
-https://github.com/sahidhossen/duotone-icon-generator
+https://github.com/joomla-projects/iconfont
 ```
 
 Go API Folder 
