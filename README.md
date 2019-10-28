@@ -42,5 +42,4 @@ npm run build_font
 
 Copyright (c) 2019 [Kawshar Ahmed](https://github.com/kawshar/) 
 
-Joomla Iconfont is an open-source initiative for Joomla 4 Administrator Template. Joomla Iconfont is a single font that offers 426 infinitely scalable vector icons absolutely for free. You may download Joomla Iconfont for free from this git repo and use it in any legal personal, organizational or commercial project.
-More precisely, Joomla Iconfont grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use icons from Joomla Iconfont for free, including for commercial purposes.
+Joomla Iconfont is licensed under the General Public License (GPLv2 or later). It is an open-source initiative for Joomla 4 Administrator Template. Joomla Iconfont is a single font that offers 426 infinitely scalable vector icons absolutely for free. You may download and use it in any legal personal, organizational or commercial project.
