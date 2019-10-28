@@ -1,0 +1,5430 @@
+{
+  "font": {
+    "author": "Joomla",
+    "email": "admin@joomla.org",
+    "ascent": 850,
+    "descent": -150,
+    "code": 59392,
+    "updateCode": 81172,
+    "fontfamily": "JoomlaFont",
+    "prefix": "icon",
+    "filename": "joomla-fonts",
+    "packageName": "joomla",
+    "version": "4.0.0",
+    "weight": "Normal",
+    "style": "Regular",
+    "metadata": "Joomla Icons Font",
+    "copyright": "Copyright (C) 2005 - 2019 Open Source Matters, Inc. All rights reserved.",
+    "url": "https://joomla.org",
+    "license": "https://tm.joomla.org/trademark-license.html"
+  },
+  "glyphs": [
+    {
+      "code": "13ab2",
+      "id": "1f8c2e54-0c24-40a9-8928-69b9cf07badc",
+      "name": "access-levels-secondary",
+      "css": "access-levels",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ab3",
+      "id": "c407271a-a79a-482d-b922-978838f7754b",
+      "name": "access-levels",
+      "css": "access-levels",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ab4",
+      "id": "03665114-1a08-4bfb-8697-2ec8c1f40098",
+      "name": "accessibility-secondary",
+      "css": "accessibility",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ab5",
+      "id": "d2c0ff1d-5722-44e0-b874-db2660ba4176",
+      "name": "accessibility",
+      "css": "accessibility",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ab6",
+      "id": "ae9ce250-6112-44c5-8787-8351e70b1220",
+      "name": "add-users-secondary",
+      "css": "add-users",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ab7",
+      "id": "358e4a4b-6681-442c-9b27-e5be1e5aeb46",
+      "name": "add-users",
+      "css": "add-users",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ab8",
+      "id": "f4bf5b13-e624-402c-834e-fdee925436e1",
+      "name": "address-secondary",
+      "css": "address",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ab9",
+      "id": "a31e2881-b711-4a26-9279-276cd3293f25",
+      "name": "address",
+      "css": "address",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13d02",
+      "id": "77ce8d7a-c995-4762-97a7-60fa7327f67e",
+      "name": "angle-double-left-secondary",
+      "css": "angle-double-left",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13d03",
+      "id": "645c7e51-c04e-4c48-b742-f92eac87c9df",
+      "name": "angle-double-left",
+      "css": "angle-double-left",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13d0b",
+      "id": "d60233d4-0d34-4ba5-bf9c-44f13fb0483e",
+      "name": "angle-double-right-secondary",
+      "css": "angle-double-right",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13d0c",
+      "id": "112c55a6-3285-4698-af26-84b196eb7eee",
+      "name": "angle-double-right",
+      "css": "angle-double-right",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13aba",
+      "id": "33086a66-19ef-4d69-bb8b-afcb6953e9fc",
+      "name": "apply-secondary",
+      "css": "apply",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13abb",
+      "id": "0aaa3ad7-61c3-476c-b701-cbfad0427454",
+      "name": "apply",
+      "css": "apply",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13abc",
+      "id": "1b11b167-1f34-4af5-9566-16750168c931",
+      "name": "archive-secondary",
+      "css": "archive",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13abd",
+      "id": "4aeb97ee-9278-4d25-85df-b4c8d25090db",
+      "name": "archive",
+      "css": "archive",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13abe",
+      "id": "e56d4efa-b4c2-40ca-bbe7-16cbca60e25d",
+      "name": "arrow-first-secondary",
+      "css": "arrow-first",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13abf",
+      "id": "1d0f5f63-6ad0-4058-8ef8-4e88175d86e8",
+      "name": "arrow-first",
+      "css": "arrow-first",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ac0",
+      "id": "4bf09506-d927-4677-aca9-766b073ddf93",
+      "name": "arrow-last-secondary",
+      "css": "arrow-last",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ac1",
+      "id": "92e59894-5406-403c-b88d-91adfcf377ff",
+      "name": "arrow-last",
+      "css": "arrow-last",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ac2",
+      "id": "0b39651d-2505-4716-bad5-5f2e0b1bb3f4",
+      "name": "articles-secondary",
+      "css": "articles",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ac3",
+      "id": "8e04be64-7fa7-4abf-a353-fcddbddbdf2d",
+      "name": "articles",
+      "css": "articles",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ac4",
+      "id": "70b73fe4-b627-47ad-9bed-9e78f0aa84be",
+      "name": "ascending-secondary",
+      "css": "ascending",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ac5",
+      "id": "5267ac82-004c-4bce-b299-1f2a8182bb70",
+      "name": "ascending",
+      "css": "ascending",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ac6",
+      "id": "81608986-97b5-4ee5-9b60-cebfe94bf236",
+      "name": "backward-secondary",
+      "css": "backward",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ac7",
+      "id": "e9714c91-9630-46e9-9adc-e7b7e55fad37",
+      "name": "backward",
+      "css": "backward",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ac8",
+      "id": "d28a26c3-1855-4b44-a40c-ae59bfc9b254",
+      "name": "bar-secondary",
+      "css": "bar",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ac9",
+      "id": "87dccaca-a951-4501-8482-8b920a474ffc",
+      "name": "bar",
+      "css": "bar",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13aca",
+      "id": "6a89e7d3-b2f8-47db-ba8b-baa6bb1be371",
+      "name": "batch-secondary",
+      "css": "batch",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13acb",
+      "id": "a7fd2e12-504a-4283-b5c0-f5342734d2eb",
+      "name": "batch",
+      "css": "batch",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13acc",
+      "id": "be248c83-ed1e-47ce-b6ef-f984fa5300d0",
+      "name": "book-secondary",
+      "css": "book",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13acd",
+      "id": "e2c9e124-653e-4a2d-aefc-53e68225d572",
+      "name": "book",
+      "css": "book",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ace",
+      "id": "485d045b-ee6f-4e92-b434-654e7927f51d",
+      "name": "bookmark-secondary",
+      "css": "bookmark",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13acf",
+      "id": "a9b37a21-3246-44bb-a363-12c7a2a57028",
+      "name": "bookmark",
+      "css": "bookmark",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ad0",
+      "id": "d709dbb2-1500-437b-a204-46a7cc9522b1",
+      "name": "briefcase-alt-secondary",
+      "css": "briefcase-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ad1",
+      "id": "a2d76089-8a9b-4988-b8fb-7f7eb557b10e",
+      "name": "briefcase-alt",
+      "css": "briefcase-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ad2",
+      "id": "32c2aa4b-2e8b-4ea9-acd0-61080ef32400",
+      "name": "briefcase-secondary",
+      "css": "briefcase",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ad3",
+      "id": "afb2229b-dc3f-48f7-b244-2590bd76e1ec",
+      "name": "briefcase",
+      "css": "briefcase",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ad4",
+      "id": "f581718a-2a85-40b9-83b9-6f152e997099",
+      "name": "broadcast-secondary",
+      "css": "broadcast",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ad5",
+      "id": "199c4c68-4050-4229-bcaf-0d6ecd69e1d3",
+      "name": "broadcast",
+      "css": "broadcast",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ad6",
+      "id": "fc77e119-cb82-47f5-9671-a6ee6c6ae6a1",
+      "name": "brush-secondary",
+      "css": "brush",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ad7",
+      "id": "450d820a-7f28-446e-aeda-5baf860d9ec4",
+      "name": "brush",
+      "css": "brush",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ad8",
+      "id": "a01697e7-a164-4795-8e64-28c86b0a1a64",
+      "name": "bug-secondary",
+      "css": "bug",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ad9",
+      "id": "39e97fd3-c676-4149-8b1d-6155a2393cc2",
+      "name": "bug",
+      "css": "bug",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ada",
+      "id": "a553f2f0-218f-4471-a31f-cdee4ba5e217",
+      "name": "calendar-secondary",
+      "css": "calendar",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13adb",
+      "id": "748b15af-d7fe-4c0e-89a1-b12d846d4a36",
+      "name": "calendar",
+      "css": "calendar",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13adc",
+      "id": "6e6c5de9-4205-44ca-b8a9-d3a17fa1b599",
+      "name": "camera-secondary",
+      "css": "camera",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13add",
+      "id": "3f5441f7-422b-43c7-a91c-981910a7acbc",
+      "name": "camera",
+      "css": "camera",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ade",
+      "id": "b0bd1872-2d85-48d1-8a4e-b137dd27b6c1",
+      "name": "cart-secondary",
+      "css": "cart",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13adf",
+      "id": "54647cac-3235-4d4d-8d86-4b06c7dc7114",
+      "name": "cart",
+      "css": "cart",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ae0",
+      "id": "9f999a58-b6af-4a5c-aeae-88b969c71b4d",
+      "name": "category-secondary",
+      "css": "category",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ae1",
+      "id": "b350cd34-bb40-4862-8ac0-ac84ae79c4a4",
+      "name": "category",
+      "css": "category",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ae2",
+      "id": "a187ce1e-f5a0-4a39-af32-74e1eff992c0",
+      "name": "chart-secondary",
+      "css": "chart",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ae3",
+      "id": "7de3c51e-6e91-4303-bccb-767701767cea",
+      "name": "chart",
+      "css": "chart",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ae4",
+      "id": "74d77031-448a-4398-b625-6136a837f3dd",
+      "name": "checkedout-secondary",
+      "css": "checkedout",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ae5",
+      "id": "e2931047-10d0-4dbb-bfba-6da20f03c18d",
+      "name": "checkedout",
+      "css": "checkedout",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ae6",
+      "id": "ee396603-45ae-403d-9ce3-960a41d66c81",
+      "name": "click-secondary",
+      "css": "click",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ae7",
+      "id": "5b742378-f802-4464-adfb-ff3cd31a9986",
+      "name": "click",
+      "css": "click",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ae8",
+      "id": "1291bc7f-559a-46ad-92a0-8fce10dce7f9",
+      "name": "cogs-secondary",
+      "css": "cogs",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ae9",
+      "id": "1bcd645e-8c7a-4187-82fa-f3fb151e9a92",
+      "name": "cogs",
+      "css": "cogs",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13aea",
+      "id": "113621ce-2cfb-44df-a480-25f52b7ef02b",
+      "name": "comment-secondary",
+      "css": "comment",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13aeb",
+      "id": "2efa12a6-43d0-4a9d-b313-b6203f5e5e6f",
+      "name": "comment",
+      "css": "comment",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13aec",
+      "id": "aed20eb4-6ba6-44d9-ab07-200496c910a6",
+      "name": "compass-secondary",
+      "css": "compass",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13aed",
+      "id": "f9d9b8aa-5fff-4d03-8970-ab23c71bdde0",
+      "name": "compass",
+      "css": "compass",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13aee",
+      "id": "6c9a564e-129c-4a0d-a16b-20dd86281b85",
+      "name": "components-secondary",
+      "css": "components",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13aef",
+      "id": "2a663e3f-84c8-44ba-b876-b64349cf8115",
+      "name": "components",
+      "css": "components",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13af0",
+      "id": "0a64d7f9-dcb4-4d13-b513-9fb9f23f9d3e",
+      "name": "contacts-alt-secondary",
+      "css": "contacts-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13af1",
+      "id": "b2848200-7000-446b-be85-f2077a4628d7",
+      "name": "contacts-alt",
+      "css": "contacts-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13af2",
+      "id": "a4d4988d-8ab6-4dd7-ad2d-f40504a71e04",
+      "name": "contacts-secondary",
+      "css": "contacts",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13af3",
+      "id": "c91b4672-9426-4b9a-b3a8-0ba4788da455",
+      "name": "contacts",
+      "css": "contacts",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13af4",
+      "id": "38eff16e-bea3-4c3d-8124-27589f9b9e53",
+      "name": "content-scalling-secondary",
+      "css": "content-scalling",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13af5",
+      "id": "07689b86-9c76-4806-98cb-62ecdaf5baa0",
+      "name": "content-scalling",
+      "css": "content-scalling",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13af6",
+      "id": "020a41ed-c46b-4106-a6f1-89b2915aab94",
+      "name": "content-secondary",
+      "css": "content",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13af7",
+      "id": "93af4d29-8738-4abf-acb5-00641bb65a08",
+      "name": "content",
+      "css": "content",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13af8",
+      "id": "39d0d449-ca6c-4aa8-8a30-b39e4c43ebe6",
+      "name": "contract-alt-secondary",
+      "css": "contract-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13af9",
+      "id": "a504110c-86ff-4982-9f28-69d29cf30fd8",
+      "name": "contract-alt",
+      "css": "contract-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13afa",
+      "id": "37189729-8173-4872-bf30-7747a5c026bb",
+      "name": "credit-secondary",
+      "css": "credit",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13afb",
+      "id": "728c538d-6481-46fe-92ff-e3909a5b1d92",
+      "name": "credit",
+      "css": "credit",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13afc",
+      "id": "f83cfe49-20e3-48bd-aef9-0e2c8e0e2336",
+      "name": "cube-secondary",
+      "css": "cube",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13afd",
+      "id": "164d5904-41ca-4e05-855d-0bd1702dcb80",
+      "name": "cube",
+      "css": "cube",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13afe",
+      "id": "550db816-ee01-4074-a716-1775f2920b7e",
+      "name": "dark-mode-secondary",
+      "css": "dark-mode",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13aff",
+      "id": "b4d9f097-af98-4968-89e1-0bf9cb084405",
+      "name": "dark-mode",
+      "css": "dark-mode",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b00",
+      "id": "9e4a0085-a6fd-4d06-acd7-0b05b65bb1ef",
+      "name": "dashboard-secondary",
+      "css": "dashboard",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b01",
+      "id": "7cad748b-e75c-477f-9396-2fe37905a85b",
+      "name": "dashboard",
+      "css": "dashboard",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b02",
+      "id": "0e649507-ec42-452d-9c45-1944b5966e7c",
+      "name": "database-secondary",
+      "css": "database",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b03",
+      "id": "f8a829c8-60ac-441f-b0b7-d24c9de175da",
+      "name": "database",
+      "css": "database",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b04",
+      "id": "d3177200-3ae3-4f27-8d07-748f42e73a83",
+      "name": "descending-secondary",
+      "css": "descending",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b05",
+      "id": "a0211ee1-ce67-418f-b341-801d667019a0",
+      "name": "descending",
+      "css": "descending",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b06",
+      "id": "9c3afb63-580d-4c6d-8d46-c589dbf71d70",
+      "name": "disable-motion-secondary",
+      "css": "disable-motion",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b07",
+      "id": "b2a6492a-e893-4339-8832-773dd05b5c13",
+      "name": "disable-motion",
+      "css": "disable-motion",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b08",
+      "id": "bf897acc-1f68-417d-b85b-a66e990e6073",
+      "name": "download-secondary",
+      "css": "download",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b09",
+      "id": "c6c34b22-20f1-4f89-93ef-fd840f9037b9",
+      "name": "download",
+      "css": "download",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13d0d",
+      "id": "9a377263-85a9-4add-b210-89baee8815e1",
+      "name": "duplicate-alt-secondary",
+      "css": "duplicate-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13d0e",
+      "id": "1077d21d-9c92-4769-bac6-0403a450b9a8",
+      "name": "duplicate-alt",
+      "css": "duplicate-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13d0f",
+      "id": "8913b67a-1326-40ba-8860-2bd94ddc9dc2",
+      "name": "duplicate-secondary",
+      "css": "duplicate",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13d10",
+      "id": "3c109b79-b706-44f0-9289-79d43f3db73d",
+      "name": "duplicate",
+      "css": "duplicate",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b0a",
+      "id": "2505473c-cfc7-46f5-a8d8-0458a4bb1c2d",
+      "name": "envelope-badge-secondary",
+      "css": "envelope-badge",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b0b",
+      "id": "419cce83-a7fd-48c1-9099-5b088fc8427b",
+      "name": "envelope-badge",
+      "css": "envelope-badge",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b0c",
+      "id": "4003b049-86b4-4351-837d-6bc827916347",
+      "name": "envelope-open-secondary",
+      "css": "envelope-open",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b0d",
+      "id": "3d97bd48-8d4a-4ec0-b53f-9749fc8a49d3",
+      "name": "envelope-open",
+      "css": "envelope-open",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b0e",
+      "id": "19b5cc9d-b2dc-4a0a-9aa2-8ad32879debf",
+      "name": "envelope-secondary",
+      "css": "envelope",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b0f",
+      "id": "64310426-5a07-4b70-80c3-7ca686b81577",
+      "name": "envelope",
+      "css": "envelope",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b10",
+      "id": "ed63924f-ccc7-4227-a167-ad49b56628f0",
+      "name": "equalizer-secondary",
+      "css": "equalizer",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b11",
+      "id": "e26c129f-5c19-4b30-b049-a7ac36cfc8c7",
+      "name": "equalizer",
+      "css": "equalizer",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b12",
+      "id": "e8b1e01b-0c5d-4615-a0b8-2df800d0858b",
+      "name": "exit-secondary",
+      "css": "exit",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b13",
+      "id": "c67aea17-8a99-4960-8752-ef66886922fe",
+      "name": "exit",
+      "css": "exit",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b14",
+      "id": "25ca8e42-ee53-4339-b179-fc20df29366c",
+      "name": "expand-full-secondary",
+      "css": "expand-full",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b15",
+      "id": "fe9eddb7-f574-4fdd-96cf-0560f7f9a679",
+      "name": "expand-full",
+      "css": "expand-full",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b16",
+      "id": "4f4796b7-9a16-46fd-b95d-0f48ceebd869",
+      "name": "expand-secondary",
+      "css": "expand",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b17",
+      "id": "f97d925f-c1f2-452e-a544-ace2a15ebe05",
+      "name": "expand",
+      "css": "expand",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b18",
+      "id": "c3b7c551-25f3-49c1-a83e-d46994276128",
+      "name": "eye-close-secondary",
+      "css": "eye-close",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b19",
+      "id": "0f68619b-1744-4bde-80bb-f2f5eb239cf6",
+      "name": "eye-close",
+      "css": "eye-close",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b1a",
+      "id": "8ed7e310-f5ef-4356-b5dc-f3237ddc3a90",
+      "name": "eye-open-secondary",
+      "css": "eye-open",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b1b",
+      "id": "3c790bb2-535b-4327-8d59-f7b4f602ede4",
+      "name": "eye-open",
+      "css": "eye-open",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b1c",
+      "id": "f89ecf72-3b69-4d4c-9cde-bea7db49f05e",
+      "name": "feed-secondary",
+      "css": "feed",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b1d",
+      "id": "72401e04-b8b3-4d83-aa4c-4479a5b0f1b0",
+      "name": "feed",
+      "css": "feed",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b1e",
+      "id": "20197388-d98b-482c-badc-b090157d58d2",
+      "name": "field-group-secondary",
+      "css": "field-group",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b1f",
+      "id": "ba3e2e2d-8037-4f04-96f4-1fdea3640709",
+      "name": "field-group",
+      "css": "field-group",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b20",
+      "id": "af55d092-e3b1-4bfa-b271-56c917fad27a",
+      "name": "fields-secondary",
+      "css": "fields",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b21",
+      "id": "122661e1-d410-46ed-b078-691a4fd3d61b",
+      "name": "fields",
+      "css": "fields",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b22",
+      "id": "6f9cfb53-b76b-4a7f-a659-817c68269280",
+      "name": "file-add-secondary",
+      "css": "file-add",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b23",
+      "id": "894b78f2-f745-4c4d-946d-73b7b2f64df9",
+      "name": "file-add",
+      "css": "file-add",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b24",
+      "id": "b5ecf7a4-5e1a-4f76-89f1-c9a559927ac5",
+      "name": "file-check-secondary",
+      "css": "file-check",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b25",
+      "id": "ac48b078-fa31-4d9d-925f-b3fc58351a32",
+      "name": "file-check",
+      "css": "file-check",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b26",
+      "id": "7011fd08-2d22-41ec-8f13-39d994cc2b72",
+      "name": "file-minus-secondary",
+      "css": "file-minus",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13cdd",
+      "id": "6901acc5-25ee-4c1d-912c-dce26d40dbd9",
+      "name": "file-minus",
+      "css": "file-minus",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b28",
+      "id": "59f37570-9517-4786-9e23-efd32dac45fa",
+      "name": "file-remove-secondary",
+      "css": "file-remove",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b29",
+      "id": "0f660801-4c52-42da-be40-24f37a1bd2fb",
+      "name": "file-remove",
+      "css": "file-remove",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b2a",
+      "id": "d750bd61-b4f0-4b5d-b362-916a505f83e9",
+      "name": "file-secondary",
+      "css": "file",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b2b",
+      "id": "ed747933-f711-40ff-b32e-359bc02c35bb",
+      "name": "file",
+      "css": "file",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b2c",
+      "id": "96918094-5042-4732-ac3a-82f0f0aaae16",
+      "name": "first-secondary",
+      "css": "first",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b2d",
+      "id": "5e6cbba6-84c6-408a-85c7-bdb23db56397",
+      "name": "first",
+      "css": "first",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b2e",
+      "id": "0f6876a8-347b-42bb-828e-083433b0e386",
+      "name": "flag-secondary",
+      "css": "flag",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b2f",
+      "id": "f49238d4-937e-4863-b6bc-1b6e129b2c3c",
+      "name": "flag",
+      "css": "flag",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b30",
+      "id": "2617d186-af4e-4466-ae6f-d96f15e3ea70",
+      "name": "folder-close-secondary",
+      "css": "folder-close",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b31",
+      "id": "1b4fa358-93a9-4416-9d8f-62bbb2728fea",
+      "name": "folder-close",
+      "css": "folder-close",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b32",
+      "id": "3e6e3586-77b9-4b4b-b06f-9a6e14d0b36f",
+      "name": "folder-open-secondary",
+      "css": "folder-open",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b33",
+      "id": "82dfb1b2-23ee-448a-b427-1384c634ab49",
+      "name": "folder-open",
+      "css": "folder-open",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b34",
+      "id": "5348c829-89f7-4b77-92da-ca23e903a163",
+      "name": "folder-plus-secondary",
+      "css": "folder-plus",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b35",
+      "id": "53f079ec-e0b1-43e4-993f-ad5b3cd94143",
+      "name": "folder-plus",
+      "css": "folder-plus",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b36",
+      "id": "70a37db7-f400-40e7-bf9c-e2f548495c8a",
+      "name": "folder-remove-secondary",
+      "css": "folder-remove",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b37",
+      "id": "a2f9cc45-c5ba-450e-8ecc-e0b858b723e1",
+      "name": "folder-remove",
+      "css": "folder-remove",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b38",
+      "id": "33af53c5-bade-418d-bd76-3d06a04a71de",
+      "name": "gift-secondary",
+      "css": "gift",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b39",
+      "id": "52aed0f4-7fd7-4530-b252-934de3b6b78c",
+      "name": "gift",
+      "css": "gift",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b3a",
+      "id": "92f44711-50d6-4fce-b976-678cba9cdccf",
+      "name": "grayscale-secondary",
+      "css": "grayscale",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b3b",
+      "id": "206827eb-4e33-453d-8d39-a3268c1a0007",
+      "name": "grayscale",
+      "css": "grayscale",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b3c",
+      "id": "724c8a58-1d46-4e33-8abb-2c8737f30513",
+      "name": "grid-advance-secondary",
+      "css": "grid-advance",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b3d",
+      "id": "f7b97d10-81c5-471c-b335-a8e1164b2039",
+      "name": "grid-advance",
+      "css": "grid-advance",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b3e",
+      "id": "a761d32a-5776-4805-b1cb-a8a1b85b8854",
+      "name": "groups-secondary",
+      "css": "groups",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b3f",
+      "id": "741c6695-e6c3-4d61-bd1b-14d282ed26b8",
+      "name": "groups",
+      "css": "groups",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b40",
+      "id": "737e2845-7132-4a43-aa5d-c19a6f351576",
+      "name": "home-secondary",
+      "css": "home",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b41",
+      "id": "fd83f23a-3e43-4b02-b070-c12329b6d06e",
+      "name": "home",
+      "css": "home",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b42",
+      "id": "b4f356cb-9215-4097-a8f6-050472b5ec6e",
+      "name": "increase-secondary",
+      "css": "increase",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b43",
+      "id": "a49e2a61-b8a7-478d-aea1-e0363886a15a",
+      "name": "increase",
+      "css": "increase",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b44",
+      "id": "1e92603d-abe8-4bdf-9531-37aa0efc8b74",
+      "name": "info-circle-secondary",
+      "css": "info-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b45",
+      "id": "dbcf2f06-bf87-4353-b840-3bc5919fd4fd",
+      "name": "info-circle",
+      "css": "info-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b46",
+      "id": "fc7bc81e-8b66-4f2d-ada1-5195a982cd1c",
+      "name": "info-secondary",
+      "css": "info",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b47",
+      "id": "4e4290e0-beac-4d29-8ece-5702a1a84ee9",
+      "name": "info",
+      "css": "info",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b48",
+      "id": "b32ebce2-5b1a-42c2-a57b-47f965ab0e1e",
+      "name": "lamp-secondary",
+      "css": "lamp",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b49",
+      "id": "4d32423e-3c46-4cdf-a2a6-98eb4f83bb4e",
+      "name": "lamp",
+      "css": "lamp",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b4a",
+      "id": "916897da-17f8-4922-a6d8-9d7973d5c995",
+      "name": "last-secondary",
+      "css": "last",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b4b",
+      "id": "1649eaca-f8e5-4032-982a-9ff6190e4eee",
+      "name": "last",
+      "css": "last",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b4c",
+      "id": "3300e49d-bad4-4f20-ab5e-292f26de053b",
+      "name": "learn-secondary",
+      "css": "learn",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b4d",
+      "id": "434b94aa-3b60-485b-b221-1f12369d723c",
+      "name": "learn",
+      "css": "learn",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b4e",
+      "id": "a9e5adf6-c683-4068-be77-4bce6a938215",
+      "name": "link-secondary",
+      "css": "link",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b4f",
+      "id": "5bc7d167-4e8b-42b7-9e4c-a0f7ca1b5bfd",
+      "name": "link",
+      "css": "link",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b50",
+      "id": "c29c4faa-7ca2-4592-a47a-4de11619c831",
+      "name": "list-secondary",
+      "css": "list",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b51",
+      "id": "02efdf20-68e5-40f9-a689-3f119dc51681",
+      "name": "list-thin-secondary",
+      "css": "list-thin",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b52",
+      "id": "98592d65-8675-4c1b-9a68-5ca470d133f7",
+      "name": "list-thin",
+      "css": "list-thin",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b53",
+      "id": "36a82494-e679-4e59-a0c4-89636c34a7f3",
+      "name": "list",
+      "css": "list",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b54",
+      "id": "ce4ea1fb-cd42-40e8-969f-6d1aed9ff1ec",
+      "name": "location-alt-secondary",
+      "css": "location-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b55",
+      "id": "eaf32955-7a77-4146-b4ec-4d807502f6e2",
+      "name": "location-alt",
+      "css": "location-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b56",
+      "id": "6578a976-dc66-442b-8ab0-12f0681df1cc",
+      "name": "location-secondary",
+      "css": "location",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b57",
+      "id": "30eb2e37-b1a4-4825-867e-2e753501c850",
+      "name": "location",
+      "css": "location",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b58",
+      "id": "e17050c4-3b60-4ea8-8cbc-7b413ab2c8a6",
+      "name": "lock-secondary",
+      "css": "lock",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b59",
+      "id": "b5d72d30-ada6-4f33-a212-fbb6703aa010",
+      "name": "lock",
+      "css": "lock",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bd5",
+      "id": "5eba71ea-b54e-454e-9763-acec80312093",
+      "name": "logs-secondary",
+      "css": "logs",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bd6",
+      "id": "fb4ea7b3-0bbe-4ca2-b998-90cdae5e0edc",
+      "name": "logs",
+      "css": "logs",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b5a",
+      "id": "6ce88a09-b787-4beb-8e7b-4d5044b2cfa0",
+      "name": "loop-secondary",
+      "css": "loop",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b5b",
+      "id": "520fa05a-bf97-4edf-9344-0c139131d705",
+      "name": "loop",
+      "css": "loop",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b5c",
+      "id": "c2dac7d6-c12f-4d2d-b517-6bad6af1583a",
+      "name": "manage-secondary",
+      "css": "manage",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b5d",
+      "id": "a34f65ed-7171-42b4-a606-02f5ae49b6a7",
+      "name": "manage-user-secondary",
+      "css": "manage-user",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b5e",
+      "id": "290a4114-2808-4caa-8736-12ccc3e64970",
+      "name": "manage-user",
+      "css": "manage-user",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b5f",
+      "id": "4b01485d-a6ae-4b31-aa27-4213ddf371df",
+      "name": "manage",
+      "css": "manage",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b60",
+      "id": "d8f7040a-09b1-4e6b-b3be-888cacd73261",
+      "name": "mass-mail-secondary",
+      "css": "mass-mail",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b61",
+      "id": "d5d3831e-fb3c-4f05-9eb0-fbff776831ac",
+      "name": "mass-mail",
+      "css": "mass-mail",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b62",
+      "id": "58a8286e-0253-4a59-a780-7c5c0ff8a3d7",
+      "name": "media-secondary",
+      "css": "media",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b63",
+      "id": "2d36820a-1d55-42ac-87c6-2c257327c647",
+      "name": "media",
+      "css": "media",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b64",
+      "id": "352e1fc2-fc60-4f48-a965-34f19720089e",
+      "name": "menu-secondary",
+      "css": "menu",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b65",
+      "id": "10d6904d-a9bd-4bd4-83f7-3c59bcb7bfb1",
+      "name": "menu",
+      "css": "menu",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b66",
+      "id": "4545e703-e226-4432-982e-3d365e2c13af",
+      "name": "messaging-secondary",
+      "css": "messaging",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b67",
+      "id": "55732274-ccc4-42bb-abfe-987857c01808",
+      "name": "messaging",
+      "css": "messaging",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b68",
+      "id": "8c76d2cf-6464-4e18-9009-1d9ceff8bad0",
+      "name": "modules-secondary",
+      "css": "modules",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b69",
+      "id": "84032221-c062-4c55-807a-a62fda0b7de8",
+      "name": "modules",
+      "css": "modules",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b6a",
+      "id": "68e6b181-3f0e-4d0d-9398-0c406a9dcc5d",
+      "name": "mouse-pointer-highlighter-secondary",
+      "css": "mouse-pointer-highlighter",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b6b",
+      "id": "d512e6c6-eb76-46e0-af33-a4e20e48f559",
+      "name": "mouse-pointer-highlighter",
+      "css": "mouse-pointer-highlighter",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b6c",
+      "id": "aecd8ef0-24fe-4d92-a7e7-5196224c46c9",
+      "name": "move-secondary",
+      "css": "move",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b6d",
+      "id": "dd0dcbd6-aea1-4434-bf69-ddcd77cfdfbb",
+      "name": "move",
+      "css": "move",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b6e",
+      "id": "c7d20434-fdc4-473d-a36c-ef18f0298274",
+      "name": "multilingual-secondary",
+      "css": "multilingual",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b6f",
+      "id": "078e879e-f021-4c58-b1e5-c6b3c57aaea3",
+      "name": "multilingual",
+      "css": "multilingual",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b70",
+      "id": "5f2f239e-9378-4e8c-82b4-b4772a71a182",
+      "name": "new-tab-alt-secondary",
+      "css": "new-tab-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b71",
+      "id": "210ddc0e-c1b9-4374-8db3-c3b6783200bf",
+      "name": "new-tab-alt",
+      "css": "new-tab-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b72",
+      "id": "b67bf22f-f948-4b36-a545-d03a5cae22c0",
+      "name": "next-secondary",
+      "css": "next",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b73",
+      "id": "3ba9f1f8-31b4-4d52-a340-6e20fa7f727d",
+      "name": "next",
+      "css": "next",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b74",
+      "id": "1cde50f3-6222-467a-8147-bec60de16b3d",
+      "name": "notification-circle-secondary",
+      "css": "notification-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b75",
+      "id": "385b69b1-2572-461f-99cd-3f28c1c8eb40",
+      "name": "notification-circle",
+      "css": "notification-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13cf5",
+      "id": "26d5e4c7-d3b0-4bd1-9a9f-5e3e420c7600",
+      "name": "notification-secondary",
+      "css": "notification",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13d14",
+      "id": "837eb18f-124f-4741-abd2-b6b19ebe51c3",
+      "name": "notification",
+      "css": "notification",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b78",
+      "id": "88e3c9fe-13f5-4e88-bce3-d9414219c8e3",
+      "name": "paint-brush-secondary",
+      "css": "paint-brush",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b79",
+      "id": "a39666f4-11df-426c-ad7a-616ddd7eb948",
+      "name": "paint-brush",
+      "css": "paint-brush",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b7a",
+      "id": "e55a5afb-27a3-4638-885e-f04804b01888",
+      "name": "pause-secondary",
+      "css": "pause",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b7b",
+      "id": "962bb546-f8d6-4d9b-b607-9abb27d527bf",
+      "name": "pause",
+      "css": "pause",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b7c",
+      "id": "62d937d5-64a0-43bd-ac79-d2af8920acca",
+      "name": "pencil-secondary",
+      "css": "pencil",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b7d",
+      "id": "69a88315-e0be-46df-a5d9-78cd7926546f",
+      "name": "pencil",
+      "css": "pencil",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b7e",
+      "id": "58bac743-90ae-4c5d-b609-96cb062ca215",
+      "name": "phone-secondary",
+      "css": "phone",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b7f",
+      "id": "d2b87a84-a4a3-4ff9-918a-0f5b06caaad1",
+      "name": "phone",
+      "css": "phone",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b80",
+      "id": "1b228739-a653-4742-ae79-14ae60f45702",
+      "name": "pictures-secondary",
+      "css": "pictures",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b81",
+      "id": "54ffa561-3209-447b-9758-08ba0da87b19",
+      "name": "pictures",
+      "css": "pictures",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b82",
+      "id": "7dda96f3-948a-4c3f-acfc-21e849a1d39d",
+      "name": "pie-secondary",
+      "css": "pie",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b83",
+      "id": "fc973479-b927-488b-9a0b-bc3cb3b5ecf9",
+      "name": "pie",
+      "css": "pie",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b84",
+      "id": "f211d163-eb1d-4b5b-bf4c-5ddf2f897eed",
+      "name": "pin-secondary",
+      "css": "pin",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b85",
+      "id": "89713b0a-a98b-44ba-81a3-0488b7f04d40",
+      "name": "pin",
+      "css": "pin",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b86",
+      "id": "2aeeac5e-ccdc-4b52-992d-56dda939fed1",
+      "name": "play-circle-secondary",
+      "css": "play-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b87",
+      "id": "c8e4d8d8-97a4-439d-83ae-4a9769ec16e7",
+      "name": "play-circle",
+      "css": "play-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b88",
+      "id": "d521f235-c843-4337-afd3-2c67aa022dab",
+      "name": "plugins-secondary",
+      "css": "plugins",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b89",
+      "id": "5f6fca32-2562-4a71-8093-3fecdd1bd5ed",
+      "name": "plugins",
+      "css": "plugins",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b8a",
+      "id": "b5c91ac3-5f8c-42b1-a654-20a47558f629",
+      "name": "plus-circle-secondary",
+      "css": "plus-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b8b",
+      "id": "22623c5a-6fa3-457e-80fb-9f1e6555e4bc",
+      "name": "plus-circle",
+      "css": "plus-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b8c",
+      "id": "5cecbc40-0d57-4cb8-a438-abe0e9bc4740",
+      "name": "previous-secondary",
+      "css": "previous",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b8d",
+      "id": "9ef450c0-38fe-4edc-af2c-32724ba1a20f",
+      "name": "previous",
+      "css": "previous",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b8e",
+      "id": "b675a638-2ebf-4786-bb0c-98703cddd724",
+      "name": "print-secondary",
+      "css": "print",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b8f",
+      "id": "556ded01-6d0c-403c-a619-63dd8a0d4e43",
+      "name": "print",
+      "css": "print",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b90",
+      "id": "167effd7-b5a7-4a9e-b69c-ffb2f797eb9d",
+      "name": "privacy-secondary",
+      "css": "privacy",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b91",
+      "id": "687d4129-c7e2-4a0d-9172-e92f76de9329",
+      "name": "privacy",
+      "css": "privacy",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b92",
+      "id": "b297230c-3e9b-461e-9c92-ea5620550a94",
+      "name": "publish-secondary",
+      "css": "publish",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b93",
+      "id": "02859484-ef42-488b-84d3-e251da64ec38",
+      "name": "publish",
+      "css": "publish",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b94",
+      "id": "48d44bcd-b85d-42eb-b67c-6d3b53648dd4",
+      "name": "purge-secondary",
+      "css": "purge",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b95",
+      "id": "019d6792-be12-4e9c-9251-00f4767b9fc6",
+      "name": "purge",
+      "css": "purge",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b96",
+      "id": "a343ed31-09e8-4dc3-9c1b-e31e1a2d193c",
+      "name": "question-sign-circle-secondary",
+      "css": "question-sign-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b97",
+      "id": "67962297-b2ca-4705-ace3-bbf4aaf2cdc0",
+      "name": "question-sign-circle",
+      "css": "question-sign-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b98",
+      "id": "28fe4a09-9a13-4474-8a0e-56f0fd10bf82",
+      "name": "quote-left-secondary",
+      "css": "quote-left",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b99",
+      "id": "ed5ae4a2-b5a6-4590-bc27-85c4e650b08c",
+      "name": "quote-left",
+      "css": "quote-left",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b9a",
+      "id": "f2eaf3b2-d0e0-4846-ac59-8b89a62629f8",
+      "name": "quote-right-secondary",
+      "css": "quote-right",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b9b",
+      "id": "9979f90e-8c36-4c1e-8e5b-6fd2fd1d9cc4",
+      "name": "quote-right",
+      "css": "quote-right",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b9c",
+      "id": "9e36186b-8076-4e0c-b423-7a7261d015ef",
+      "name": "radio-checked-secondary",
+      "css": "radio-checked",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b9d",
+      "id": "f450f6da-1d24-4519-9500-fa5fa9764b1b",
+      "name": "radio-checked",
+      "css": "radio-checked",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13b9e",
+      "id": "c087a4c4-70f8-4e4d-9cff-8f314c846a5a",
+      "name": "rebuild-secondary",
+      "css": "rebuild",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13b9f",
+      "id": "4c3f0cc5-05f2-4871-8acb-af23bbf14100",
+      "name": "rebuild",
+      "css": "rebuild",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ba0",
+      "id": "47ba0b77-fa59-460b-958a-58763e1e893b",
+      "name": "repeat-secondary",
+      "css": "repeat",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ba1",
+      "id": "1f3362a1-5282-4703-a2b6-b969318ea00e",
+      "name": "repeat",
+      "css": "repeat",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ba2",
+      "id": "b18fff69-fbef-417a-a0c9-2c6e4cdd51a8",
+      "name": "reply-secondary",
+      "css": "reply",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ba3",
+      "id": "ee919594-e4b7-4ce0-bed4-346f1785cb37",
+      "name": "reply",
+      "css": "reply",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ba4",
+      "id": "f302609c-24a8-47ca-b60f-30e4649d5c2e",
+      "name": "save-secondary",
+      "css": "save",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ba5",
+      "id": "84f3692b-1879-4069-9174-44ebdd44dd51",
+      "name": "save",
+      "css": "save",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ba6",
+      "id": "ebbae2b7-429d-458c-b521-9c15e3e50e08",
+      "name": "scissors-secondary",
+      "css": "scissors",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ba7",
+      "id": "401dc0ae-29ef-4ca0-a686-15fa9588e3a9",
+      "name": "scissors",
+      "css": "scissors",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ba8",
+      "id": "e90c5151-8913-4f56-b558-366f5dc0e215",
+      "name": "screen-secondary",
+      "css": "screen",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13ba9",
+      "id": "db675cac-256d-43ad-8195-78a099326cf2",
+      "name": "screen",
+      "css": "screen",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13baa",
+      "id": "703f8abf-2138-4e99-b557-53f70d711b79",
+      "name": "screwdriver-secondary",
+      "css": "screwdriver",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bab",
+      "id": "7d365d8f-5c3c-4a6a-98ea-066ff42be916",
+      "name": "screwdriver",
+      "css": "screwdriver",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bac",
+      "id": "f6f6613d-8139-4fb0-a9e5-3ca3ee668ce0",
+      "name": "share-alt-secondary",
+      "css": "share-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bad",
+      "id": "55737e9a-9b1e-46fe-8b92-f6229f90ba8a",
+      "name": "share-alt",
+      "css": "share-alt",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bae",
+      "id": "e9b9249c-3d3c-4d6a-9952-8e1f1076f204",
+      "name": "shield-secondary",
+      "css": "shield",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13baf",
+      "id": "2777ab8b-6c5a-4c4f-9de1-2f20762641f5",
+      "name": "shield",
+      "css": "shield",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bb0",
+      "id": "531e5988-b271-403e-9768-0519b293c301",
+      "name": "shuffle-secondary",
+      "css": "shuffle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bb1",
+      "id": "42bb0f2d-45fc-41ce-b0ac-9d674164d8a3",
+      "name": "shuffle",
+      "css": "shuffle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bb2",
+      "id": "8c360858-5ad3-4f01-bb84-62b82121576a",
+      "name": "sign-in-secondary",
+      "css": "sign-in",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bb3",
+      "id": "710c3793-fdf5-4575-9111-3f1428eb4717",
+      "name": "sign-in",
+      "css": "sign-in",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bb4",
+      "id": "46e28a09-5d36-48a8-ae2c-fb4d44709b22",
+      "name": "sign-out-secondary",
+      "css": "sign-out",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bb5",
+      "id": "46558427-3c34-4c47-b823-45f7f7fbe414",
+      "name": "sign-out",
+      "css": "sign-out",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bb6",
+      "id": "ece89e60-6fb6-4f3d-9b58-2e4b56d76d81",
+      "name": "smart-search-secondary",
+      "css": "smart-search",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bb7",
+      "id": "fc148eb1-14f2-4c43-9381-e8d2107b1ae2",
+      "name": "smart-search",
+      "css": "smart-search",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bb8",
+      "id": "bfb27af8-d78c-4225-803a-7035c0280fb0",
+      "name": "smiley-neutral-secondary",
+      "css": "smiley-neutral",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bb9",
+      "id": "0f555806-bfe4-4338-afc5-7ffddfb916c6",
+      "name": "smiley-neutral",
+      "css": "smiley-neutral",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bba",
+      "id": "77a2ae10-0927-43aa-90ab-36d0ab2c6c6f",
+      "name": "smiley-sad-secondary",
+      "css": "smiley-sad",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bbb",
+      "id": "429b4f76-84d6-48d8-80e0-6bd5f62be5b6",
+      "name": "smiley-sad",
+      "css": "smiley-sad",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bbc",
+      "id": "79d31ffb-3537-4508-b211-1db70a69e6b9",
+      "name": "smiley-secondary",
+      "css": "smiley",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bbd",
+      "id": "35a0517e-6c0f-4668-9d1a-d98b0515e0e4",
+      "name": "smiley",
+      "css": "smiley",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bd0",
+      "id": "0cbae6e1-57de-4e70-bb28-7e8e1522e20a",
+      "name": "sourcetree-secondary",
+      "css": "sourcetree",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bd1",
+      "id": "a9736886-a090-42bf-84a5-abb28141eeee",
+      "name": "sourcetree",
+      "css": "sourcetree",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bbe",
+      "id": "c63cb831-ca0f-44d3-9792-e7069f1feb76",
+      "name": "step-forward-secondary",
+      "css": "step-forward",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bbf",
+      "id": "97113140-128f-45eb-a72a-68128052c3c2",
+      "name": "step-forward",
+      "css": "step-forward",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bc0",
+      "id": "62e1d90d-6d8e-481c-92ec-6f50ffbbeb46",
+      "name": "stop-secondary",
+      "css": "stop",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bc1",
+      "id": "9cf4aa8c-630b-481b-9f1f-3e5a9ef68dbd",
+      "name": "stop",
+      "css": "stop",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bc2",
+      "id": "b3b98b02-17af-4a89-8281-f6941556c985",
+      "name": "support-secondary",
+      "css": "support",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bc3",
+      "id": "528b9935-4216-4c64-ab8b-96999c1c1c2e",
+      "name": "support",
+      "css": "support",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bc4",
+      "id": "66fa2373-b117-4ae5-8b06-6bd7bb523054",
+      "name": "table-secondary",
+      "css": "table",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bc5",
+      "id": "88391319-7517-4b4a-aed9-3472e0586783",
+      "name": "table",
+      "css": "table",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bc6",
+      "id": "7b05b0f1-96f9-4e90-a564-2fdf53583d32",
+      "name": "tag-double-secondary",
+      "css": "tag-double",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bc7",
+      "id": "ac7d903a-e390-4301-8be1-6ac72ea40db1",
+      "name": "tag-double",
+      "css": "tag-double",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bc8",
+      "id": "77bf35c6-168f-40f6-a77a-7e5987356c37",
+      "name": "tags-squared-secondary",
+      "css": "tags-squared",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bc9",
+      "id": "edf1f7ed-b2d4-46a1-b874-aa50963ee954",
+      "name": "tags-squared",
+      "css": "tags-squared",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bca",
+      "id": "09d4c319-b58e-4076-8d95-3a2a64bb8f88",
+      "name": "tags-trio-secondary",
+      "css": "tags-trio",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bcb",
+      "id": "c9a8fd67-12b7-49b0-bde4-34dcd2a9a75b",
+      "name": "tags-trio",
+      "css": "tags-trio",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bcc",
+      "id": "d619f88b-7ba0-4d2f-8f53-dbc61506e0d0",
+      "name": "thumbs-down-secondary",
+      "css": "thumbs-down",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bcd",
+      "id": "7f9c85a5-1f29-45ce-8467-8fb9481c543a",
+      "name": "thumbs-down",
+      "css": "thumbs-down",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bce",
+      "id": "b8eb4406-b5d7-4ca3-a65e-bf574d68c6f7",
+      "name": "thumbs-up-secondary",
+      "css": "thumbs-up",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bcf",
+      "id": "80b8eb93-bfd8-4356-b5cd-1afaf3f6f2a6",
+      "name": "thumbs-up",
+      "css": "thumbs-up",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13cf9",
+      "id": "8ef95151-8daf-4cfb-a936-70450de601d3",
+      "name": "toggle-off-secondary",
+      "css": "toggle-off",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13cf8",
+      "id": "ea6da1a1-2972-4763-bcb4-26c97e35e957",
+      "name": "toggle-off",
+      "css": "toggle-off",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13cfa",
+      "id": "6924e637-ec1f-47a5-80cf-a30e9b874cca",
+      "name": "toggle-on-secondary",
+      "css": "toggle-on",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13cfb",
+      "id": "024001ce-a0d3-4f40-8ea6-20ee1b25c18f",
+      "name": "toggle-on",
+      "css": "toggle-on",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bd2",
+      "id": "40442112-9c27-4482-b9e7-14ec406ce906",
+      "name": "unlock-secondary",
+      "css": "unlock",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bd3",
+      "id": "e2d39d26-dcb4-4c5c-a003-0da6505c9e30",
+      "name": "unlock",
+      "css": "unlock",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13cfe",
+      "id": "5bec0d3a-2e4f-4967-bcd6-ce1597c62a16",
+      "name": "unpublish-secondary",
+      "css": "unpublish",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13cff",
+      "id": "7a601397-0309-477b-bef9-dfb6bd42a80b",
+      "name": "unpublish",
+      "css": "unpublish",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bd7",
+      "id": "aacea299-3b4e-4232-9e1c-1a9bcab3e1ac",
+      "name": "user-notes-secondary",
+      "css": "user-notes",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bd8",
+      "id": "f0b1cd08-2a35-4f3f-9d60-c97d06e235d7",
+      "name": "user-notes",
+      "css": "user-notes",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13d13",
+      "id": "77e6d8c3-af75-4cd0-8d52-2ff051fb2d7d",
+      "name": "user-secondary",
+      "css": "user",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13d06",
+      "id": "7af15e36-c612-48b3-b37b-ea9e9a06eed0",
+      "name": "user",
+      "css": "user",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bd9",
+      "id": "e227c5f5-97e3-4307-b709-de0ded60cec8",
+      "name": "users-secondary",
+      "css": "users",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bda",
+      "id": "b060aa75-1797-468f-9693-df0a66f720dc",
+      "name": "users",
+      "css": "users",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bdb",
+      "id": "2d571e15-17d9-40f8-b148-007f46e5bf49",
+      "name": "vcard-secondary",
+      "css": "vcard",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bdc",
+      "id": "bd62ef02-29a2-4fb0-86ab-550abd417cb1",
+      "name": "vcard",
+      "css": "vcard",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bdd",
+      "id": "92bec81f-d5da-4a44-b22f-afe2832652de",
+      "name": "video-secondary",
+      "css": "video",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13bde",
+      "id": "37522508-7c55-4151-8fa2-3b1c2409ef09",
+      "name": "video",
+      "css": "video",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13bdf",
+      "id": "6cebc268-d955-47ad-9c36-8a18cab2267d",
+      "name": "wand-secondary",
+      "css": "wand",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13be0",
+      "id": "9eb328fb-ec3b-45da-864f-1a37a189bbb5",
+      "name": "wand",
+      "css": "wand",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13ce9",
+      "id": "8e143561-0db8-4977-9f79-48ba1914784c",
+      "name": "warning-circle-secondary",
+      "css": "warning-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13cea",
+      "id": "26a6c9d2-294c-4ecf-90a6-88061c9a6df8",
+      "name": "warning-circle",
+      "css": "warning-circle",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13be1",
+      "id": "ae4e988e-a6d5-4c58-8c88-7418a531c8c2",
+      "name": "workflows-secondary",
+      "css": "workflows",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13be2",
+      "id": "06727aa0-657e-456b-b251-622de51073f2",
+      "name": "workflows",
+      "css": "workflows",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13be3",
+      "id": "2d459936-1545-452c-98cd-46ff93eb30bb",
+      "name": "wrench-secondary",
+      "css": "wrench",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "13be4",
+      "id": "f6edae9d-4091-44c7-8412-b5e489bd5e3c",
+      "name": "wrench",
+      "css": "wrench",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "13be6",
+      "id": "1cdd63b6-1fbe-4f10-8b30-fbf8e901c39e",
+      "name": "access-levels",
+      "css": "access-levels",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13be7",
+      "id": "130d57b5-e089-4180-af7a-c9d9992a81ed",
+      "name": "accessibility",
+      "css": "accessibility",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13be8",
+      "id": "995e9c84-f741-429c-a182-ed3f2343b098",
+      "name": "add-users",
+      "css": "add-users",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13be9",
+      "id": "adc3d0e4-e473-4c22-9a68-d470a54eb10d",
+      "name": "address",
+      "css": "address",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d07",
+      "id": "c08c8e40-816c-4280-88ab-b496dc3cdd56",
+      "name": "angle-double-left",
+      "css": "angle-double-left",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d08",
+      "id": "3fbb29c3-5d18-4ab7-b046-37fc22b4fa03",
+      "name": "angle-double-right",
+      "css": "angle-double-right",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-down-3",
+      "code": "13bed",
+      "id": "b455b25e-ed06-4d37-b618-40283f93848f",
+      "name": "angle-down",
+      "css": "angle-down",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-left-3",
+      "code": "13bf2",
+      "id": "29d58858-54a2-4ece-b64b-51d38fabf434",
+      "name": "angle-left",
+      "css": "angle-left",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-right-4",
+      "code": "13bf6",
+      "id": "1dfbd124-1d0c-4a65-807f-bf64575e633c",
+      "name": "angle-right",
+      "css": "angle-right",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-up-4",
+      "code": "13bf9",
+      "id": "7c9e7779-dd04-469d-af12-b09394513a27",
+      "name": "angle-up",
+      "css": "angle-up",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "edit,pencil",
+      "code": "13bea",
+      "id": "74669dbe-f41a-42af-8e6b-685ce0a49b84",
+      "name": "apply",
+      "css": "apply",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "drawer-2",
+      "code": "13beb",
+      "id": "14087875-466e-40af-a1a8-3d818a862894",
+      "name": "archive",
+      "css": "archive",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-down-2",
+      "code": "13bec",
+      "id": "19dcfbd7-2bd6-48b7-9f96-3195e88fcbcb",
+      "name": "arrow-down",
+      "css": "arrow-down",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13bef",
+      "id": "785070df-4b39-49b2-b59e-56102095f248",
+      "name": "arrow-first",
+      "css": "arrow-first",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13bf0",
+      "id": "273dd986-0687-46c9-a12d-73b91de344e6",
+      "name": "arrow-last",
+      "css": "arrow-last",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-left-2",
+      "code": "13bf1",
+      "id": "b3cad12e-fadb-4b7b-8e20-2b86cf271d23",
+      "name": "arrow-left",
+      "css": "arrow-left",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-right-2",
+      "code": "13bf4",
+      "id": "b3ac898b-4167-4ec4-94ed-224adb0ade3f",
+      "name": "arrow-right",
+      "css": "arrow-right",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-up-2",
+      "code": "13bf7",
+      "id": "c003dfd4-b325-4459-9d4d-b33fc0a8b777",
+      "name": "arrow-up",
+      "css": "arrow-up",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "files",
+      "code": "13bfa",
+      "id": "92d032ef-b48e-44d9-9f7c-f39554c6ad28",
+      "name": "articles",
+      "css": "articles",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "sort-down",
+      "code": "13bfb",
+      "id": "ebfb9aa0-80c3-49e0-bed5-7483022e5307",
+      "name": "ascending",
+      "css": "ascending",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "paperclip,flag-2",
+      "code": "13bfc",
+      "id": "ccc37552-5638-4f08-a48b-f99477cf3f69",
+      "name": "attachment",
+      "css": "attachment",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13bfd",
+      "id": "c2c95444-8f3c-47ea-986b-56c579933e9e",
+      "name": "backward",
+      "css": "backward",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "chart-bar,equalizer-2",
+      "code": "13bfe",
+      "id": "2a75cddc-2b3b-4988-934f-d1b7a7b2753e",
+      "name": "bar",
+      "css": "bar",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "menu-3",
+      "code": "13bff",
+      "id": "83bd60f4-8e28-4dca-ba2b-351ed1ba2012",
+      "name": "bars",
+      "css": "bars",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "bucket",
+      "code": "13c00",
+      "id": "7a6bf96e-6abf-4840-a3c2-bc3502219a7d",
+      "name": "basket",
+      "css": "basket",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c01",
+      "id": "13c5c084-b33e-4fda-9237-ebf0e4e96bda",
+      "name": "batch",
+      "css": "batch",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "cursor-big",
+      "code": "13c02",
+      "id": "bc267289-96af-4f9d-8931-c105eda87293",
+      "name": "big-black-cursor",
+      "css": "big-black-cursor",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "cursor-big-outline",
+      "code": "13c03",
+      "id": "f69ccd60-da65-403b-9aed-c0db1fc8f3b1",
+      "name": "big-white-cursor",
+      "css": "big-white-cursor",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "library",
+      "code": "13c04",
+      "id": "9a5ec0b2-33cb-45ac-83f6-7883214b3403",
+      "name": "book",
+      "css": "book",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c05",
+      "id": "6ae332d5-1ef7-4730-aac9-ffcb3428d340",
+      "name": "bookmark",
+      "css": "bookmark",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c06",
+      "id": "4b44c848-3a2e-40c1-b5cd-25d9aa101d8c",
+      "name": "box-add",
+      "css": "box-add",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c07",
+      "id": "9968892a-182c-454b-b479-d7c920b6af24",
+      "name": "box-remove",
+      "css": "box-remove",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "briefcase-2",
+      "code": "13c08",
+      "id": "dfec01c6-0353-4ae5-9463-15bd55998e51",
+      "name": "briefcase-alt",
+      "css": "briefcase-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c09",
+      "id": "856a09a5-05bc-4c57-9d84-5a742498c548",
+      "name": "briefcase",
+      "css": "briefcase",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "connection,wifi",
+      "code": "13c0a",
+      "id": "ad51d6f7-2650-49d9-977b-8c8003a2648a",
+      "name": "broadcast",
+      "css": "broadcast",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "paint-brush",
+      "code": "13c0b",
+      "id": "140441bc-9566-4818-beec-d4b537bf9405",
+      "name": "brush",
+      "css": "brush",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "quote-3",
+      "code": "13c0c",
+      "id": "f2720c78-0049-4907-8a56-8515773b485b",
+      "name": "bubble-quote",
+      "css": "bubble-quote",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c0d",
+      "id": "b7541444-327b-494c-b09b-31d56ab7abba",
+      "name": "bug",
+      "css": "bug",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c0e",
+      "id": "fe2cfe15-265d-42c1-a843-85d84c287b22",
+      "name": "calendar-alt",
+      "css": "calendar-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c0f",
+      "id": "2b859faf-f9cf-46dc-8b76-e509577dc872",
+      "name": "calendar",
+      "css": "calendar",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c10",
+      "id": "37ec7f03-acc9-42cd-a030-916a93ef5c17",
+      "name": "camera",
+      "css": "camera",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c11",
+      "id": "e7d72885-3f4a-48d9-b7f9-e237db0300c5",
+      "name": "cancel-circle",
+      "css": "cancel-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-down-4",
+      "code": "13bee",
+      "id": "b23b2c3d-d797-4724-b4a2-2da8819fb328",
+      "name": "caret-down",
+      "css": "caret-down",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ce2",
+      "id": "a31352fa-b6a5-47d6-be48-ab1b7766a807",
+      "name": "caret-h",
+      "css": "caret-h",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-left-4",
+      "code": "13bf3",
+      "id": "59892844-357f-4a63-937d-4cac6bc80432",
+      "name": "caret-left",
+      "css": "caret-left",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-right-3",
+      "code": "13bf5",
+      "id": "4579a6ef-6e8b-4c76-8ce9-2ffca82fb9ec",
+      "name": "caret-right",
+      "css": "caret-right",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-up-3",
+      "code": "13bf8",
+      "id": "44e24d18-1994-46c5-a51f-605576ee66a0",
+      "name": "caret-up",
+      "css": "caret-up",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "menu-2",
+      "code": "13c1e",
+      "id": "f1579f18-f09b-4147-8937-376dbb14e9ff",
+      "name": "caret-v",
+      "css": "caret-v",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "shopping",
+      "code": "13c12",
+      "id": "90c02c50-eba9-4bc0-843f-dc56a7337ace",
+      "name": "cart",
+      "css": "cart",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c13",
+      "id": "92ea1bb8-dfac-40cf-8043-05b787ffa32a",
+      "name": "category",
+      "css": "category",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c14",
+      "id": "1bb1e9a8-39e0-4779-8c17-a29265319d34",
+      "name": "chart",
+      "css": "chart",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d01",
+      "id": "762ef81d-4187-49e2-b38f-5b22c86efe1b",
+      "name": "check",
+      "css": "check",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c15",
+      "id": "0ad4cac8-7747-4dce-b6a9-f06d1c08d475",
+      "name": "checkbox-checked",
+      "css": "checkbox-checked",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c16",
+      "id": "43375cfa-05ef-4043-b1d2-e56b81a747bb",
+      "name": "checkbox-partial",
+      "css": "checkbox-partial",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c17",
+      "id": "72183003-32de-447d-b50d-cc9a95f6abc2",
+      "name": "checkbox-unchecked",
+      "css": "checkbox-unchecked",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "lock,locked,secure",
+      "code": "13c18",
+      "id": "6b0449a8-c99e-48e4-bc1d-37208d2d07fa",
+      "name": "checkedout",
+      "css": "checkedout",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c19",
+      "id": "d47e765c-4710-4354-889d-68c28bbd518c",
+      "name": "checkinmark",
+      "css": "checkinmark",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "downarrow",
+      "code": "13c1a",
+      "id": "60fd0955-79d9-4cfa-8f12-628af0756035",
+      "name": "chevron-down",
+      "css": "chevron-down",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "leftarrow",
+      "code": "13c1b",
+      "id": "7a45e881-2e77-46ad-9eb4-897ea4588f63",
+      "name": "chevron-left",
+      "css": "chevron-left",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "rightarrow",
+      "code": "13c1c",
+      "id": "288d0d8e-d089-491e-b44f-3467663953f9",
+      "name": "chevron-right",
+      "css": "chevron-right",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "uparrow",
+      "code": "13c1d",
+      "id": "c7f8da87-7a36-4264-840e-080a50f5a47e",
+      "name": "chevron-up",
+      "css": "chevron-up",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c1f",
+      "id": "4dbbe2a9-46d3-4b4e-a007-239e2658bcdb",
+      "name": "circle",
+      "css": "circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c20",
+      "id": "48a49f6c-858e-4137-82f0-202bbe5694b2",
+      "name": "click",
+      "css": "click",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "clock-2",
+      "code": "13c21",
+      "id": "3f0dcdbc-9907-4c98-b26a-95350605d572",
+      "name": "clock-alt",
+      "css": "clock-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c22",
+      "id": "d69ab5eb-34c6-4bb9-8a64-b7b3a0cccc81",
+      "name": "clock",
+      "css": "clock",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ced",
+      "id": "470c5c63-0e88-40e0-89db-3fcd4f5d7542",
+      "name": "code-branch",
+      "css": "code-branch",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "options-cog",
+      "code": "13c83",
+      "id": "9e2cc3a3-4b53-4d42-adb0-094c8218ff9d",
+      "name": "cog",
+      "css": "cog",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "os,options",
+      "code": "13c23",
+      "id": "a18a6ca2-5418-43d7-8e1a-8912d1153e45",
+      "name": "cogs",
+      "css": "cogs",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c24",
+      "id": "ad414e87-c017-44ae-a672-f7078d454a1b",
+      "name": "comment",
+      "css": "comment",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c25",
+      "id": "c7650893-48a0-4fc2-80f7-d1e5df5b0478",
+      "name": "comments",
+      "css": "comments",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "navigate,navigate-2",
+      "code": "13c26",
+      "id": "5c37f691-f5b2-4a8c-b147-81396357df43",
+      "name": "compass",
+      "css": "compass",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "layers",
+      "code": "13c27",
+      "id": "0792b420-25d6-4899-b200-38896ff8df01",
+      "name": "components",
+      "css": "components",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "contacts-2",
+      "code": "13c28",
+      "id": "0aaaece8-4c8a-4a7a-9948-330bebfb52af",
+      "name": "contacts-alt",
+      "css": "contacts-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c29",
+      "id": "9caacdd1-07fd-4040-933d-8db12ce20e84",
+      "name": "contacts",
+      "css": "contacts",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c2a",
+      "id": "668ff51f-003c-41f8-a48c-c8234b68dd71",
+      "name": "content-scalling",
+      "css": "content-scalling",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c2b",
+      "id": "8aaad574-9cfa-478a-825c-54c27b46dc60",
+      "name": "content",
+      "css": "content",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "contract-2",
+      "code": "13cde",
+      "id": "a6cdd068-8cb0-43d2-a510-5e62d06fcfdc",
+      "name": "contract-alt",
+      "css": "contract-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c2c",
+      "id": "278194f9-0456-448b-b27f-bd4eadcbc408",
+      "name": "contract",
+      "css": "contract",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "move",
+      "code": "13c2d",
+      "id": "ccaa0481-d40b-49f9-887e-de858c7ec0f4",
+      "name": "control",
+      "css": "control",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "credit-card,card",
+      "code": "13c2e",
+      "id": "da9df18e-0f10-48dc-a896-8b23f6ccf2f7",
+      "name": "credit",
+      "css": "credit",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cdf",
+      "id": "3582a574-422b-4235-9537-25d7303bc210",
+      "name": "css",
+      "css": "css",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c2f",
+      "id": "6bd4898e-f048-4b2e-aab6-40d61b9b496f",
+      "name": "cube",
+      "css": "cube",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c30",
+      "id": "fd33b9a1-9312-4d10-b6f4-f84907839c2d",
+      "name": "dark-mode",
+      "css": "dark-mode",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c31",
+      "id": "ffae0549-256e-4907-8375-31868cdac8d7",
+      "name": "dashboard",
+      "css": "dashboard",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "storage",
+      "code": "13c32",
+      "id": "177c6913-3ce2-49cc-87cb-f6afc476e4f8",
+      "name": "database",
+      "css": "database",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "sort-up",
+      "code": "13c33",
+      "id": "4572de96-2a90-462d-9734-2434423b0b0a",
+      "name": "descending",
+      "css": "descending",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c34",
+      "id": "9a8c3416-930c-4d74-816d-1afafd5bbc6b",
+      "name": "disable-motion",
+      "css": "disable-motion",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "download-2",
+      "code": "13c35",
+      "id": "53c0939a-7336-481e-849f-162678fcc766",
+      "name": "download-alt",
+      "css": "download-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c36",
+      "id": "5da009fc-2e03-4e85-a241-625f4d9c624c",
+      "name": "download",
+      "css": "download",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d11",
+      "id": "bfa5bbd8-774a-4b80-addc-1477a8066d1d",
+      "name": "duplicate-alt",
+      "css": "duplicate-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d12",
+      "id": "e660c885-96e3-485e-9fcd-85f0657c599e",
+      "name": "duplicate",
+      "css": "duplicate",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "more,overflow-menu,menu-horizontal",
+      "code": "13ce3",
+      "id": "ae04770d-f2ba-453d-8a22-162748c8d605",
+      "name": "ellipsis-h",
+      "css": "ellipsis-h",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "menu-vertical",
+      "code": "13ce4",
+      "id": "95f539ad-2e60-4174-ad07-40016c9e4262",
+      "name": "ellipsis-v",
+      "css": "ellipsis-v",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c37",
+      "id": "37fa6fa7-2696-4a0e-b2a1-3c62d35a835c",
+      "name": "envelope-badge",
+      "css": "envelope-badge",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c38",
+      "id": "d631e462-dc02-40d9-9065-b00c2cdb2f27",
+      "name": "envelope-open",
+      "css": "envelope-open",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "mail",
+      "code": "13c39",
+      "id": "661a9779-86f4-405c-82f1-e73ec4582f5d",
+      "name": "envelope",
+      "css": "envelope",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "settings-2",
+      "code": "13c3a",
+      "id": "e80dd9b3-98f2-4951-bd19-a6a85894963f",
+      "name": "equalizer",
+      "css": "equalizer",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c3b",
+      "id": "fef89264-e156-4e9b-a710-6a4f3ecac59e",
+      "name": "error",
+      "css": "error",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "switch",
+      "code": "13c3c",
+      "id": "65630460-5c9b-40aa-91e4-f55c62a9bedd",
+      "name": "exit",
+      "css": "exit",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c3d",
+      "id": "8a26f9f7-05ad-4c09-a83e-8a3425bdfeed",
+      "name": "expand-full",
+      "css": "expand-full",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c3e",
+      "id": "d0298cc8-534a-47dc-8698-19b710523799",
+      "name": "expand",
+      "css": "expand",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "new-tab-2,new-tab-alt",
+      "code": "13c7e",
+      "id": "2b74d02d-511b-4e65-950a-75c96f0406b7",
+      "name": "external-link-alt",
+      "css": "external-link-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "launch,new-tab",
+      "code": "13c7f",
+      "id": "9ce6104c-3e04-48f2-af22-a65b8451fcb7",
+      "name": "external-link",
+      "css": "external-link",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "eye-blocked,eye-2,hide",
+      "code": "13c3f",
+      "id": "445ce12e-6504-4ae4-aa8f-b647daab3f7e",
+      "name": "eye-close",
+      "css": "eye-close",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "eye,view",
+      "code": "13c40",
+      "id": "aacf97a1-6a63-4c3d-ae6d-76a84b68f1f9",
+      "name": "eye-open",
+      "css": "eye-open",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "default,star,star-full,grade",
+      "code": "13cb9",
+      "id": "2830724b-a968-4add-bf50-8741794df18c",
+      "name": "featured",
+      "css": "featured",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "rss",
+      "code": "13c41",
+      "id": "b17415ca-e9f6-478a-aafd-816706b8d5ed",
+      "name": "feed",
+      "css": "feed",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "user-group",
+      "code": "13c42",
+      "id": "14cbd53b-0a2a-4147-9084-adbd2aed2f7d",
+      "name": "field-group",
+      "css": "field-group",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "input",
+      "code": "13c43",
+      "id": "935f3a2e-c9e2-4683-a7c5-94262e50da3d",
+      "name": "fields",
+      "css": "fields",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "file-plus",
+      "code": "13c44",
+      "id": "e0756431-9d59-437d-8074-716ddabb5690",
+      "name": "file-add",
+      "css": "file-add",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c45",
+      "id": "5ad3867a-c614-4c66-b234-d04e62a77ebe",
+      "name": "file-check",
+      "css": "file-check",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c46",
+      "id": "01e6a8a1-b75b-4e00-a698-0f3a0475ff11",
+      "name": "file-minus",
+      "css": "file-minus",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c47",
+      "id": "8c00f63b-b806-483a-a770-32b87e356158",
+      "name": "file-remove",
+      "css": "file-remove",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c48",
+      "id": "4f5cf326-b411-41b4-87d0-7869d2aaaa15",
+      "name": "file",
+      "css": "file",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c49",
+      "id": "5501e21b-b98e-4a0f-9104-ccd6a50c3592",
+      "name": "filter",
+      "css": "filter",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c4a",
+      "id": "dcd1dfa6-4313-4292-97b4-18179090774e",
+      "name": "first",
+      "css": "first",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c4b",
+      "id": "8bb5bf64-449b-49e5-8387-b28562de8402",
+      "name": "flag",
+      "css": "flag",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "folder",
+      "code": "13c4c",
+      "id": "ea2f1561-ab0d-41a1-b7cd-cb657f260467",
+      "name": "folder-close",
+      "css": "folder-close",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "folder-2",
+      "code": "13c4d",
+      "id": "f47c22c1-07b1-47c8-8b35-0f1f4cd4a057",
+      "name": "folder-open",
+      "css": "folder-open",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c4e",
+      "id": "843d0571-c2eb-4d5d-b484-a64e88def363",
+      "name": "folder-plus",
+      "css": "folder-plus",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c4f",
+      "id": "d3fe26eb-3e2e-41bf-94f0-d8ade3f76f72",
+      "name": "folder-remove",
+      "css": "folder-remove",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c50",
+      "id": "0b208d66-04a8-451e-9eae-7fb699dc8935",
+      "name": "forward",
+      "css": "forward",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "gift-box",
+      "code": "13c51",
+      "id": "3467abcc-c107-4fd5-ad74-c0658083138f",
+      "name": "gift",
+      "css": "gift",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "language,globe",
+      "code": "13c52",
+      "id": "824f0def-0af3-4525-a1b7-b4b002c0fc0d",
+      "name": "global",
+      "css": "global",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c53",
+      "id": "94a63895-4c8c-404e-913f-d9826aae5cd4",
+      "name": "grayscale",
+      "css": "grayscale",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c54",
+      "id": "b1a1388f-f0c0-4a8e-a89f-d1c3405a2e0a",
+      "name": "grid-advance",
+      "css": "grid-advance",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c55",
+      "id": "7a6266b0-a3de-4693-abcc-917587f2137c",
+      "name": "grid-view",
+      "css": "grid-view",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "grid-view",
+      "code": "13c56",
+      "id": "36eb56ff-bc34-4804-8934-870fbf7dab35",
+      "name": "grid",
+      "css": "grid",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c57",
+      "id": "1931b58b-b190-4308-8c90-fb1b489122b4",
+      "name": "groups",
+      "css": "groups",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c58",
+      "id": "92d0d0b4-2478-426f-a961-5526be09107f",
+      "name": "health",
+      "css": "health",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c59",
+      "id": "71cc6a19-424d-4160-9e45-bd7688c41f9c",
+      "name": "heart-stroke",
+      "css": "heart-stroke",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c5a",
+      "id": "2afcc346-0015-4722-863e-1891d5d76129",
+      "name": "heart",
+      "css": "heart",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c5b",
+      "id": "f311834a-3216-441c-afc7-2c7d0ec2d60b",
+      "name": "home",
+      "css": "home",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ce0",
+      "id": "157e9ba7-8810-44cf-b374-1971fd681335",
+      "name": "html",
+      "css": "html",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13be5",
+      "id": "cd02002e-5ed9-4f35-b85e-c6df0edccc91",
+      "name": "increase-contrast",
+      "css": "increase-contrast",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "help,help-2",
+      "code": "13c5c",
+      "id": "9f7ee653-b044-4ff4-b2c3-2d82d9161ea6",
+      "name": "info-bubble",
+      "css": "info-bubble",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c5d",
+      "id": "fa03d49e-fe2b-4450-8aa8-732a83f9f636",
+      "name": "info-circle",
+      "css": "info-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c5e",
+      "id": "61f66857-0bd3-4772-88c1-d1c0f69e30d0",
+      "name": "info",
+      "css": "info",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c5f",
+      "id": "0e174fb0-274c-4135-ba27-d5665b2ea7ed",
+      "name": "joomla",
+      "css": "joomla",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "light,light-bulb",
+      "code": "13c60",
+      "id": "ffb30f42-8c02-4816-868f-0f19bde2e6d3",
+      "name": "lamp",
+      "css": "lamp",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c61",
+      "id": "3900c3b8-6dc2-43c5-85a2-485dabfa47c4",
+      "name": "last",
+      "css": "last",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "education",
+      "code": "13c62",
+      "id": "310739f8-4bae-4ab7-898a-556795f4cea7",
+      "name": "learn",
+      "css": "learn",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c63",
+      "id": "07b5cdf1-c4e5-49db-a010-43f0026645b6",
+      "name": "lighting",
+      "css": "lighting",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c64",
+      "id": "1bf12eec-0c1e-45c5-a0f2-b6e5e5c8bd3e",
+      "name": "link",
+      "css": "link",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c65",
+      "id": "285b89d4-b5fa-4b61-9915-ee94e79174fa",
+      "name": "list-thin",
+      "css": "list-thin",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "list-view",
+      "code": "13c66",
+      "id": "f654b680-9ab5-4d11-8159-0822bb963278",
+      "name": "list",
+      "css": "list",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "location-2",
+      "code": "13c67",
+      "id": "3877c8dd-1f55-497e-b41a-6633a4285864",
+      "name": "location-alt",
+      "css": "location-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "map",
+      "code": "13c68",
+      "id": "be541d78-61f7-480a-8a61-99c6bc1f7801",
+      "name": "location",
+      "css": "location",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c69",
+      "id": "dc2a8b82-8549-4c88-841b-ea99bbb751a5",
+      "name": "lock",
+      "css": "lock",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "activity-log,user-activity-log",
+      "code": "13cd1",
+      "id": "12631927-163e-4735-a666-0af74d2d5505",
+      "name": "logs",
+      "css": "logs",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c6a",
+      "id": "0c69a883-bc32-440c-8536-929e0563a436",
+      "name": "loop",
+      "css": "loop",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c6b",
+      "id": "2597acb2-376f-465c-8c89-d5d66cdaf97b",
+      "name": "magnifier",
+      "css": "magnifier",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c6c",
+      "id": "68fb1b67-11f1-4c7b-b770-ac1b0f29e573",
+      "name": "manage-user",
+      "css": "manage-user",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c6d",
+      "id": "a9c8507e-5650-4366-b5e6-ddc322fb12d6",
+      "name": "manage",
+      "css": "manage",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c6e",
+      "id": "928e3720-c951-43f1-b1e9-0b2217e03572",
+      "name": "mass-mail",
+      "css": "mass-mail",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c6f",
+      "id": "bec283f6-42c2-448c-bd00-ce44ae807864",
+      "name": "media",
+      "css": "media",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c72",
+      "id": "3656adbc-2a0a-4ac6-bcc1-25beaf8c423a",
+      "name": "menu",
+      "css": "menu",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c73",
+      "id": "23fe9885-329d-41bc-a7b1-5555a170024a",
+      "name": "messaging",
+      "css": "messaging",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c74",
+      "id": "d72d75aa-7aae-4f31-bc54-3be39de42b8b",
+      "name": "minus-circle",
+      "css": "minus-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "minus-2,minus",
+      "code": "13cf7",
+      "id": "a91338cb-0946-4969-b385-b855793d2deb",
+      "name": "minus-sign",
+      "css": "minus-sign",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "phone-2",
+      "code": "13c76",
+      "id": "d708e09f-f3f5-47e1-acab-17c763fde5ad",
+      "name": "mobile",
+      "css": "mobile",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "puzzle",
+      "code": "13c77",
+      "id": "7c3eb1a6-587c-4895-b173-7b81f608d84c",
+      "name": "modules",
+      "css": "modules",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c78",
+      "id": "cd2617ca-d584-439c-b42e-4d156ca5a91f",
+      "name": "mouse-pointer-highlighter",
+      "css": "mouse-pointer-highlighter",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "move-2",
+      "code": "13c79",
+      "id": "bc220242-4586-4e84-8329-7d7e51758d37",
+      "name": "move-v",
+      "css": "move-v",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "control",
+      "code": "13c7a",
+      "id": "00595e88-1d9a-4c91-a212-56e213c08d2b",
+      "name": "move",
+      "css": "move",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c7b",
+      "id": "00ec3da8-a32c-415a-92e2-3fc0375185b5",
+      "name": "multilingual",
+      "css": "multilingual",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c7c",
+      "id": "c71eb9c1-4077-49c9-a965-87e2cd98e9a4",
+      "name": "music",
+      "css": "music",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c7d",
+      "id": "317b2f77-29f8-4fd8-9e45-3920a53d8d80",
+      "name": "navigation",
+      "css": "navigation",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "forward",
+      "code": "13c80",
+      "id": "76f4ed64-4b12-43bc-8489-b76d6376efac",
+      "name": "next",
+      "css": "next",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c81",
+      "id": "23c2d942-fb78-4b68-b0fa-19000ca75fa3",
+      "name": "notification-circle",
+      "css": "notification-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cf4",
+      "id": "e27b14a4-a936-46d1-9bfd-85c083dd9853",
+      "name": "notification",
+      "css": "notification",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c84",
+      "id": "4670cc98-b7fa-4baa-a1ee-659e916592fd",
+      "name": "paint-brush",
+      "css": "paint-brush",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "color-palette",
+      "code": "13c85",
+      "id": "1d98455d-5b14-413c-baf3-18fff54b0809",
+      "name": "palette",
+      "css": "palette",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c86",
+      "id": "b2bba94c-dd93-4cf5-a146-c6691e2ac7ca",
+      "name": "paragraph-bullete",
+      "css": "paragraph-bullete",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c87",
+      "id": "7103878d-1b87-4712-b2cd-4b4ab1da7c66",
+      "name": "paragraph-center",
+      "css": "paragraph-center",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c88",
+      "id": "f87d0bda-c64d-4fee-a13e-8b5fecaacb4e",
+      "name": "paragraph-justify",
+      "css": "paragraph-justify",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c89",
+      "id": "29042cb5-29c0-4fc4-812f-4d96a8373e76",
+      "name": "paragraph-left",
+      "css": "paragraph-left",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c8a",
+      "id": "a54c22df-38ef-40ab-a733-34517e4498ad",
+      "name": "paragraph-numbered",
+      "css": "paragraph-numbered",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c8b",
+      "id": "1a610bf5-1d97-4e46-9bd8-75b187cbe042",
+      "name": "paragraph-right",
+      "css": "paragraph-right",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c8c",
+      "id": "d7d3965a-7a2d-4396-bf14-3bcf7bd9b5aa",
+      "name": "pause",
+      "css": "pause",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c8d",
+      "id": "7495e531-494a-4b56-b0ca-48af0fffbff9",
+      "name": "pencil",
+      "css": "pencil",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "warning",
+      "code": "13c8e",
+      "id": "a292075b-8b18-45fa-8a43-4517e077f7e5",
+      "name": "pending",
+      "css": "pending",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c8f",
+      "id": "6034a990-3229-48cc-b010-aa853e10eeb3",
+      "name": "permission",
+      "css": "permission",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c90",
+      "id": "c9e16ac9-894e-4909-9cc9-18ad518427ce",
+      "name": "phone",
+      "css": "phone",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ce1",
+      "id": "680f7a38-ce71-4874-beb9-691aad8db0b0",
+      "name": "php",
+      "css": "php",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "images",
+      "code": "13c91",
+      "id": "af3b8d18-2d3d-410f-a0d5-4e94ac1f92e0",
+      "name": "pictures",
+      "css": "pictures",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "chart-2",
+      "code": "13c92",
+      "id": "9a22715b-8674-4342-a645-3985ebf8db00",
+      "name": "pie",
+      "css": "pie",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "pushpin",
+      "code": "13c93",
+      "id": "55774620-bf0a-4b34-83b7-91f89a8b9cbe",
+      "name": "pin",
+      "css": "pin",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c94",
+      "id": "72df6372-d82b-4048-b3f1-ea1088d5eab5",
+      "name": "play-circle",
+      "css": "play-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "video-2,youtube",
+      "code": "13c95",
+      "id": "1700d1c7-5620-4e85-b3ba-b0c0c3146d00",
+      "name": "play",
+      "css": "play",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c96",
+      "id": "9f7ee14d-3d66-42eb-90a2-65cf3ce5cb00",
+      "name": "plug",
+      "css": "plug",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "plug",
+      "code": "13c97",
+      "id": "a9cb05b6-42e8-4c43-9061-e02441f2c321",
+      "name": "plugins",
+      "css": "plugins",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c98",
+      "id": "22a6e92b-9105-4c9f-8127-719b86c61576",
+      "name": "plus-circle",
+      "css": "plus-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "backward",
+      "code": "13c99",
+      "id": "e09658e1-d147-4f5b-99bf-8426b1a93e8b",
+      "name": "previous",
+      "css": "previous",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "printer",
+      "code": "13c9a",
+      "id": "17b7a600-feaa-47b3-bb30-de5fd73165ab",
+      "name": "print",
+      "css": "print",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c9b",
+      "id": "dea1276d-2f8e-4eed-9a1e-55040bb28729",
+      "name": "privacy",
+      "css": "privacy",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "save,ok,checkmark",
+      "code": "13c9c",
+      "id": "c76361db-9aa7-4177-9d51-6e2e5045a475",
+      "name": "publish",
+      "css": "publish",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "question-sign-circle,question-2",
+      "code": "13c9d",
+      "id": "d9c17bc9-0ea4-4c24-ace5-a3dae3c552dc",
+      "name": "question-circle",
+      "css": "question-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c9e",
+      "id": "ee4d278a-74f1-4082-a309-4d724a59f670",
+      "name": "question-sign",
+      "css": "question-sign",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13c9f",
+      "id": "39190338-3645-4ab0-9d05-0ab3b23a797b",
+      "name": "quote-left",
+      "css": "quote-left",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ca0",
+      "id": "2ee59536-d3c6-4b2c-9047-1941a15525ed",
+      "name": "quote-right",
+      "css": "quote-right",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "generic",
+      "code": "13ca1",
+      "id": "a6c14ba4-c197-43f4-8729-129b7ec3b278",
+      "name": "radio-checked",
+      "css": "radio-checked",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ca2",
+      "id": "b5d69cf7-a56a-4ee2-8396-8631bf4f393c",
+      "name": "radio-unchecked",
+      "css": "radio-unchecked",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ca3",
+      "id": "d7360201-81e3-4bfa-a87e-dd43413bf18d",
+      "name": "rebuild",
+      "css": "rebuild",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ca4",
+      "id": "c76e9459-1184-4d44-b393-6a6e55541ef0",
+      "name": "repeat",
+      "css": "repeat",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "backward-2,reply-all",
+      "code": "13ca5",
+      "id": "d26b6467-b9c4-43bf-b10a-4cff3ce90395",
+      "name": "reply",
+      "css": "reply",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "copy",
+      "code": "13ca6",
+      "id": "d9dc0021-dc39-43eb-928b-0eb8537ba365",
+      "name": "save-copy",
+      "css": "save-copy",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "plus-2,new,plus,add",
+      "code": "13ca7",
+      "id": "f260aa25-d2e7-4667-beda-b29201ddfe79",
+      "name": "save-new",
+      "css": "save-new",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ca8",
+      "id": "4f002562-04ea-4fd5-b0c2-9cf48566a25e",
+      "name": "scissors",
+      "css": "scissors",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "monitor,desktop",
+      "code": "13ca9",
+      "id": "8546e329-e17d-4769-9708-516c2742a7d0",
+      "name": "screen",
+      "css": "screen",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "tools",
+      "code": "13caa",
+      "id": "1beddff2-c561-4c41-adb4-aae89aff3589",
+      "name": "screwdriver",
+      "css": "screwdriver",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cab",
+      "id": "457f1a1e-28a5-48a0-9172-70d9e997adf8",
+      "name": "search",
+      "css": "search",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cac",
+      "id": "eed7096b-b24e-44a4-bd01-59bf9e36ff92",
+      "name": "select",
+      "css": "select",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cad",
+      "id": "52f51266-3b1c-4c0e-af0c-82a026856efa",
+      "name": "settings",
+      "css": "settings",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "out",
+      "code": "13cae",
+      "id": "37986c0e-850a-4eb7-a503-e707de5b1be6",
+      "name": "share-alt",
+      "css": "share-alt",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13caf",
+      "id": "32a59363-d6a0-4546-b990-f379db94b278",
+      "name": "share-redo",
+      "css": "share-redo",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "protect,security",
+      "code": "13cb0",
+      "id": "cffb8221-3d21-4118-a543-89f6c5e58cb6",
+      "name": "shield",
+      "css": "shield",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cb1",
+      "id": "7c415683-db2a-4f72-8301-1bf46a108ba2",
+      "name": "shuffle",
+      "css": "shuffle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cb2",
+      "id": "fbe1166a-29d8-4e7e-b680-a09e3f1cf4df",
+      "name": "sign-in",
+      "css": "sign-in",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cb3",
+      "id": "dde60eda-62c9-4f00-941b-5c59a33c8512",
+      "name": "sign-out",
+      "css": "sign-out",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cb4",
+      "id": "56555082-f26b-4ef4-954e-7857e2c0720d",
+      "name": "smart-search",
+      "css": "smart-search",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cb5",
+      "id": "a6e113f7-64ce-4682-b921-f2e726fc12f0",
+      "name": "smiley-neutral",
+      "css": "smiley-neutral",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cb6",
+      "id": "6033e12e-06b3-4746-a977-8da70e402ab9",
+      "name": "smiley-sad",
+      "css": "smiley-sad",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "smiley-happy",
+      "code": "13cb7",
+      "id": "79a2c0ee-4ab3-4442-ae67-1b3d011d7d41",
+      "name": "smiley",
+      "css": "smiley",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cb8",
+      "id": "4393cf20-4015-47b8-8270-ed1d6d0e0ec3",
+      "name": "sort",
+      "css": "sort",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "tree",
+      "code": "13cc9",
+      "id": "0d4e519b-ee3e-486d-a599-294fb841969d",
+      "name": "sourcetree",
+      "css": "sourcetree",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d09",
+      "id": "41458313-5ebf-4933-b0a6-69afdd7b087e",
+      "name": "spinner",
+      "css": "spinner",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cee",
+      "id": "d5638891-681b-4112-9821-01a5053ba74a",
+      "name": "square",
+      "css": "square",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cba",
+      "id": "02779646-b9b6-4927-b3be-4d8765c8734d",
+      "name": "star-half",
+      "css": "star-half",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "arrow-last",
+      "code": "13cbb",
+      "id": "951e9655-67e7-4882-aab9-0b847f938f9a",
+      "name": "step-forward",
+      "css": "step-forward",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cbc",
+      "id": "ec3217d1-5442-4942-ae80-25fb9a9fe855",
+      "name": "stop",
+      "css": "stop",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "check-circle",
+      "code": "13cbd",
+      "id": "425116ad-43c6-414b-b612-0c6d585d3584",
+      "name": "success",
+      "css": "success",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cbe",
+      "id": "e7878ddc-96bb-46b0-aec2-90fcb5cf054e",
+      "name": "support",
+      "css": "support",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cbf",
+      "id": "46dad4b1-ca8f-453d-b5cc-c0bae3a8f977",
+      "name": "table",
+      "css": "table",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "offer",
+      "code": "13cc1",
+      "id": "49f2cdd1-b9ea-46cf-9f2a-593991960d21",
+      "name": "tag",
+      "css": "tag",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "styles",
+      "code": "13cc2",
+      "id": "163d1f76-7408-4f59-978e-8674a00b61a8",
+      "name": "tags-squared",
+      "css": "tags-squared",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cc3",
+      "id": "a611fcb3-e755-4b56-86fb-df95984f4ffe",
+      "name": "tags-trio",
+      "css": "tags-trio",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "tag-double",
+      "code": "13cc0",
+      "id": "8e1cd8ef-3236-440c-9b21-c907aa692a4f",
+      "name": "tags",
+      "css": "tags",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cc4",
+      "id": "1c03bb6c-f7f1-4199-b338-52fb66d8aa18",
+      "name": "thumbs-down",
+      "css": "thumbs-down",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cc5",
+      "id": "b12c07db-c33c-4485-b799-47f282d30f0e",
+      "name": "thumbs-up",
+      "css": "thumbs-up",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "cancel,close,delete-2",
+      "code": "13cc6",
+      "id": "9c0aed77-d72b-4d2f-a994-c8a8cdf5c315",
+      "name": "times",
+      "css": "times",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cfc",
+      "id": "758700fe-affd-400f-926d-cebc010372bc",
+      "name": "toggle-off",
+      "css": "toggle-off",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cfd",
+      "id": "776863c9-4ec7-4f9f-873b-3cc7846bab49",
+      "name": "toggle-on",
+      "css": "toggle-on",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "delete,purge",
+      "code": "13cc7",
+      "id": "75f2b784-4d5c-4fa5-93a7-aca99b365157",
+      "name": "trash",
+      "css": "trash",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cc8",
+      "id": "6fcb224b-148b-47a5-8f1f-2be46ee7a286",
+      "name": "tree-hub",
+      "css": "tree-hub",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "refresh,redo-2",
+      "code": "13cca",
+      "id": "600077ba-ab61-4e76-98c6-2296358fb1aa",
+      "name": "unblock",
+      "css": "unblock",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ccb",
+      "id": "d3da4b9d-327f-420e-a29e-06a4a43eab9a",
+      "name": "undo-back",
+      "css": "undo-back",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13ccc",
+      "id": "18d177a7-8031-4360-b9bc-e2b056169e6f",
+      "name": "undo",
+      "css": "undo",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "asterisk,star-empty",
+      "code": "13ccd",
+      "id": "a9e082a5-3b6a-4046-8a26-df0a0a9537c1",
+      "name": "unfeatured",
+      "css": "unfeatured",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cce",
+      "id": "b4c930b4-064b-4e1c-aa98-f22a9f4fa869",
+      "name": "unlock",
+      "css": "unlock",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d00",
+      "id": "9b9aa877-bc3b-4ca0-a885-b821e7dc66d1",
+      "name": "unpublish",
+      "css": "unpublish",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cd0",
+      "id": "fb738090-53ba-4cfc-8ad6-31bcf531e0ea",
+      "name": "upload",
+      "css": "upload",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "notes",
+      "code": "13cd2",
+      "id": "701582d4-1144-4f34-89b4-43396152528e",
+      "name": "user-notes",
+      "css": "user-notes",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13d0a",
+      "id": "48dc6a56-6069-46f1-9d7c-4da0e389f607",
+      "name": "user",
+      "css": "user",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cd4",
+      "id": "7c4732e1-15d4-413d-b7dd-cb03e7731eb3",
+      "name": "users",
+      "css": "users",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cd5",
+      "id": "4ea7f3d0-3037-4f4c-a53e-795b69780506",
+      "name": "vcard",
+      "css": "vcard",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "camera-2",
+      "code": "13cd6",
+      "id": "b8cbf4c9-66bc-4e11-8cf2-11174d0085fb",
+      "name": "video",
+      "css": "video",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cd7",
+      "id": "bbb7c883-28b1-4c6b-a413-aae7b8936a33",
+      "name": "wand",
+      "css": "wand",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cef",
+      "id": "315208c9-7b55-4ca4-b451-6c7833cd2736",
+      "name": "warning-circle",
+      "css": "warning-circle",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cd8",
+      "id": "1f28440d-3b28-4736-ac9a-69183da59b19",
+      "name": "warning",
+      "css": "warning",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cd9",
+      "id": "b5a9c879-f12b-44bd-9167-0ec6e1f9f69d",
+      "name": "workflows",
+      "css": "workflows",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "alias": "build",
+      "code": "13cda",
+      "id": "6bbec4ee-d381-4165-ba68-eb0c11724049",
+      "name": "wrench",
+      "css": "wrench",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cdb",
+      "id": "c2ce4014-f2a3-4b1a-9c9f-677588c21558",
+      "name": "zoom-in",
+      "css": "zoom-in",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    },
+    {
+      "code": "13cdc",
+      "id": "27f51511-eec2-4a56-9458-c8fc71aeb752",
+      "name": "zoom-out",
+      "css": "zoom-out",
+      "cat": "singletone",
+      "duotone": false,
+      "assign": "before"
+    }
+  ],
+  "categories": [
+    "duotone-icon",
+    "singletone"
+  ]
+}
