@@ -1,6 +1,6 @@
 # Joomla Icon Font Generator
 
-## Installtaion Process
+## Installation Process
 
 Clone git repository from-
 ```
